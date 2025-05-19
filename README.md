@@ -9,4 +9,5 @@ This repository contains a Java program that recursively generates and prints al
 The program uses recursion to explore both possibilities at each character in the input string:
 - Include the current character in the subsequence.
 - Exclude the current character from the subsequence.
+  
 This results in all possible subsequences that preserve the order of characters from the original string.
